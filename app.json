@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "BPMCounterExpo",
+    "name": "BPM Counter",
     "slug": "BPMCounterExpo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#6200ea"
     },
     "ios": {
       "supportsTablet": true
@@ -20,10 +19,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.citycountrycity.BPMCounterExpo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "35a2eca7-ec19-4bd8-9bbe-48ac9e28597f"
+      }
     }
   }
 }
