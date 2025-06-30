@@ -15,3 +15,7 @@ A simple BPM counter app built with React Native and Expo.
 
 - **React Native**
 - **Expo**
+
+<div style="text-align: center;">
+    <img src="/screen.jpg" alt="Pollio Logo" width="200">
+</div>
